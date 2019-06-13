@@ -1,0 +1,10 @@
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\bin\Debug\TollsCT.dacpac
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\bin\Debug\TollsCT.dll
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\bin\Debug\TollsCT.pdb
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\TollsCT.sqlprojAssemblyReference.cache
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\Model.xml
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\refactor.xml
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\postdeploy.sql
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\predeploy.sql
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\TollsCT.dll
+C:\Users\deept\source\repos\tolls-CT-mssql\TollsCT\obj\Debug\TollsCT.pdb
